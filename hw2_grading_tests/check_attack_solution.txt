@@ -1,0 +1,14 @@
+k y
+k n
+k y
+k n
+q y
+q n
+q y
+q n
+q y
+q y
+r n
+r y
+b y
+b n
